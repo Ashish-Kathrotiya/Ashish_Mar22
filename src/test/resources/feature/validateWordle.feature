@@ -1,4 +1,4 @@
-Feature: validate all basic functionality of Wordle
+Feature: validate all index page functionality of Wordle
 
 Scenario: verify header option on index page
 	Given user navigates to nytimes url
